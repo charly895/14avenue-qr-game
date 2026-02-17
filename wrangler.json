@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "14avenue-qr-game",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "060fc9f6-c7da-4e9c-b09d-135b911fd24b",
+			"database_name": "qr_game_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
